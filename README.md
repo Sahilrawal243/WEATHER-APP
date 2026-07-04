@@ -10,6 +10,11 @@ It is a beginner-friendly project that demonstrates how to use APIs, handle JSON
 
 ---
 
+## Internship Details
+- Name : Sahil Rawal
+- Intern ID : CITS4175
+- Organistation : CODTECH
+
 ## Features
 
 - Search weather by city
